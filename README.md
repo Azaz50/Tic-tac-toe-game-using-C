@@ -5,6 +5,7 @@ Run : ./a.out
 
 (base) azaz@azaz:~/projects/tictaktoe$ gcc tictactoe.c
 (base) azaz@azaz:~/projects/tictaktoe$ ./a.out
+
 1          2          3          
 
 
@@ -20,6 +21,7 @@ Run : ./a.out
 Player 1: X		Player 2: O
 Choose any number
 Player 1: 1
+
 X          2          3          
 
 
@@ -34,6 +36,7 @@ X          2          3
 
 Choose any number
 Player 2: 2
+
 X          O          3          
 
 
@@ -48,6 +51,7 @@ X          O          3
 
 Choose any number
 Player 1: 5
+
 X          O          3          
 
 
@@ -62,6 +66,7 @@ X          O          3
 
 Choose any number
 Player 2: 4
+
 X          O          3          
 
 
@@ -76,6 +81,7 @@ O          X          6
 
 Choose any number
 Player 1: 9
+
 X          O          3          
 
 
